@@ -18,7 +18,7 @@ p{
     text-align: center;
     background-color: orangered; 
     border-radius: 30px;
-    width: 500px;
+    width: 370px;
     position: absolute;
     left: 50%;
     transform: translate(-50%);
@@ -38,7 +38,7 @@ li{
     height: 40px;
     background-color: yellowgreen;
     border-radius: 15px;
-    transform: translate(55%);
+    transform: translate(26%);
     transition: filter .5s;
 }
 a{
