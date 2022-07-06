@@ -22,7 +22,7 @@ p{
     background-color: darkslategrey; 
     border-radius: 30px;
     width: 370px;
-    height: 640px;
+    height: 700px;
     position: absolute;
     left: 50%;
     transform: translate(-50%);
@@ -56,7 +56,7 @@ img{
     padding: 3px;
 }
 footer{
-    margin-top: 90px;
+    margin-top: 150px;
     margin-bottom: 10px;
 }
 li:hover{
