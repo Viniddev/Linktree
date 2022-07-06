@@ -6,23 +6,23 @@ html{
 }
 h1{
     font-size: 40px; 
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     margin-top: 15px;
     text-decoration:none;
 }
 #instagram{
-    font-size: 17px;
-    cursor: pointer;
-    margin-top: 15px;
-    margin-bottom: 10px;
-    text-decoration: underline;
+    font-size: 18px;
+    text-decoration: underline;  
+}
+p{
+    margin-bottom: 45px;
 }
 #conteiner{
     text-align: center;
     background-color: darkslategrey; 
     border-radius: 30px;
     width: 370px;
-    height: 600px;
+    height: 640px;
     position: absolute;
     left: 50%;
     transform: translate(-50%);
@@ -46,9 +46,6 @@ li{
     transition: filter .5s;
     box-shadow: 2px 3px 5px rgba(0, 0, 0, 1)
 }
-a{
-    cursor: pointer;
-}
 img{
     margin-top: 25px;
     top: 40px;
@@ -59,6 +56,7 @@ img{
     padding: 3px;
 }
 footer{
+    margin-top: 90px;
     margin-bottom: 10px;
 }
 li:hover{
